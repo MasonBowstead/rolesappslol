@@ -6,6 +6,7 @@
         "description": "",
         "pm_help": true
     },
-    "token": "BOT_TOKEN",
+    "token": "from boto.s3.connection import S3Connection
+s3 = S3Connection(os.environ['BOT_TOKEN'],
     "traceback": false
 }
