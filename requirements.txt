@@ -1,0 +1,4 @@
+emoji_list
+https://github.com/Rapptz/discord.py/archive/rewrite.zip#egg=discord.py[voice]
+pip
+git+git://github.com/vincentmwong/emoji_list.git

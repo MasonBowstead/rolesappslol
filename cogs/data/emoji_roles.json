@@ -1,0 +1,12 @@
+{
+    "\ud83c\udfc6": {
+        "description": "Receive notifications when League Games start.",
+        "role": "League Announcement",
+        "type": "roles"
+    },
+    "\ud83d\udce3": {
+        "description": "Receive notifications when Snipe Games start.",
+        "role": "Snipe Announcement",
+        "type": "roles"
+    }
+}
